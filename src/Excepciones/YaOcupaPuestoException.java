@@ -14,3 +14,4 @@ public class YaOcupaPuestoException extends RuntimeException{
     }
     
 }
+//metodo para saber si ya exite un auto guardado
