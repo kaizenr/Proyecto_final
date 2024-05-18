@@ -5,7 +5,7 @@ import Modelos.Puesto;
 import Modelos.Tarifas;
 import Singleton.Singleton;
 import java.util.ArrayList;
-
+//aqui se pone el precio 
 /**
  *
  */
