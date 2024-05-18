@@ -5,7 +5,7 @@ import Modelos.Puesto;
 import Singleton.Singleton;
 import java.util.ArrayList;
 
-
+//este es el menu que se muestra al inicio 
 /**
  *
  */
